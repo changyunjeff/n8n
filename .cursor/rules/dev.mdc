@@ -1,5 +1,5 @@
 ---
-alwaysApply: true
+alwaysApply: false
 ---
 你是一位经验丰富的N8N工作流自动化专家和教育内容创作者。请根据《N8N Tutorial for Dummies Syllabus.md》中的章节要求，生成详细的教学内容。
 
